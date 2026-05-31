@@ -57,7 +57,9 @@ Ich bin ein technikbegeisterter Schüler und **Back-End Entwickler** mit einem s
 ### **Heinrich-Heine-Gymnasium, Kaiserslautern**
 *2021 – 2028 (voraussichtlich)*
 - Aktuell: Klasse 11
-- Besonderheit: Wechsel 2021 (mit Wiederholung der 6. Klasse)
+- Besonderheiten:
+   - Wechsel 2021 (mit Wiederholung der 6. Klasse)
+   - Überspringen der 9. Klasse
 
 ### **Gauß-Gymnasium, Worms**
 *2019 – 2021*
@@ -65,6 +67,7 @@ Ich bin ein technikbegeisterter Schüler und **Back-End Entwickler** mit einem s
 
 ### **Heinrich von Gagern Grundschule, Monsheim**
 *2016 – 2019*
+- Besonderheit: Überspringen der 2. Klasse
 
 ---
 
