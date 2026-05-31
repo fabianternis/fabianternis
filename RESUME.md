@@ -77,3 +77,7 @@ Ich bin ein technikbegeisterter Schüler und **Back-End Entwickler** mit einem s
 *2022 – 2025*
 - Zertifikat der **Deutschen Telekom Stiftung**
 - Webanwendung basierend auf dem [LaravelPHP](https://laravel.com/) Framework - Fahrgeminschaftsanwendung
+
+### **Sozialpraktikum**
+*2026*
+- Testat zum ausüben eines einwöchigen **Sozialpraktikums**
