@@ -134,6 +134,9 @@
 - [HDDEN].de
 - thisisfeli.de
 - tonveraendert.de
+- leniwoess.de
+- [HIDDEN].de
+- cult-management.de
 
 [dnbx.de](https://dnbx.de/#domainlist) has up-to-date data.
 *--- Some Domains may be expired at this time* ---
