@@ -138,6 +138,7 @@
 - [HDDEN].de
 - cult-management.de
 - [HDDEN].de
+- zoeyhope.de
 
 [dnbx.de](https://dnbx.de/#domainlist) has up-to-date data.
 *--- Some Domains may be expired at this time* ---
