@@ -72,14 +72,14 @@
 - burgermc.de  (EXPIRED)
 - [fternis.de](https://fternis.de/)
 - bildungsbereich-rlp.de  (EXPIRED)
-- XP-AD.de
-- laravel-tutorial.eu
-- gehirn-weg.de
-- staatliches-heinrich-heine-gymnasium-kaiserslautern.de
-- spielefrei.de
+- XP-AD.de  (EXPIRED)
+- laravel-tutorial.eu  (EXPIRED)
+- gehirn-weg.de  (EXPIRED)
+- staatliches-heinrich-heine-gymnasium-kaiserslautern.de  (EXPIRED)
+- spielefrei.de  (EXPIRED)
 - yourlink.app
-- mcserver.lol
-- dsc.pics [GitHub](https://github.com/europehost/dsc.pics)
+- mcserver.lol  (EXPIRED)
+- dsc.pics [GitHub](https://github.com/europehost/dsc.pics)  (EXPIRED)
 - mtex.dev [GitHub](https://github.com/MTEX-dev)
 - gimy.site [GitHub](https://github.com/MTEX-dev/gimy-site)
 - urlk.app
@@ -138,6 +138,9 @@
 - [HDDEN].de
 - cult-management.de
 - [HDDEN].de
+- zoeyhope.de
+- fiamarielin.de
+- fialin.de
 
 [dnbx.de](https://dnbx.de/#domainlist) has up-to-date data.
 *--- Some Domains may be expired at this time* ---
