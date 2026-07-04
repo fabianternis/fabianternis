@@ -141,6 +141,7 @@
 - zoeyhope.de
 - fiamarielin.de
 - fialin.de
+- ternis.net
 
 [dnbx.de](https://dnbx.de/#domainlist) has up-to-date data.
 *--- Some Domains may be expired at this time* ---
