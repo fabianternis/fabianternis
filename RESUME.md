@@ -32,8 +32,8 @@ Ich bin ein technikbegeisterter Schüler und **Back-End Entwickler** mit einem s
 ## 🏆 Wettbewerbe & Auszeichnungen
 
 ### **IMMC (International Mathematical Modeling Challenge)**
+* **2026:** 🥉 **3. Platz National** (Deutschland)
 * **2025:** 🥈 **2. Platz National** (Deutschland)
-* **2026:** Teilnahme
 
 ### **Jugend Forscht / Schüler experimentieren**
 * **Wettbewerbsrunde 2025/2026**
@@ -49,6 +49,7 @@ Ich bin ein technikbegeisterter Schüler und **Back-End Entwickler** mit einem s
 
 ### **Informatik-Biber**
 - Regelmäßige Teilnahme am bundesweiten Informatik-Wettbewerb.
+* **2024** Erster Preis
 
 ---
 
@@ -56,7 +57,7 @@ Ich bin ein technikbegeisterter Schüler und **Back-End Entwickler** mit einem s
 
 ### **Heinrich-Heine-Gymnasium, Kaiserslautern**
 *2021 – 2028 (voraussichtlich)*
-- Aktuell: Klasse 11
+- Aktuell: Klasse 12
 - Besonderheit: Wechsel 2021 (mit Wiederholung der 6. Klasse)
 
 ### **Gauß-Gymnasium, Worms**
