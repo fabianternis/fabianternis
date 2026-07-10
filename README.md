@@ -1,13 +1,6 @@
 # Hey there 👋!
 
-I'm **Fabian Ternis**, a self-taught **German** web developer specializing in **Laravel** and **PHP**.
-(Still learning)
-
-Explore my work and projects:
-
-*   [English Portfolio](http://fabianternis.dev/)
-*   [German Portfolio](https://fabianternis.de/)
-*   [Please Hire Me (English)](http://pleasehireme.eu/)
+I'm **Fabian Ternis**, a **German** Student and self-teaching Developer
 
 [Imprint](https://fternis.de/imprint)
 
