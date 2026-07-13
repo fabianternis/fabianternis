@@ -1,6 +1,6 @@
 # Hey there 👋!
 
-I'm **Fabian Ternis**, a **German** Student and self-teaching Developer
+I'm **Fabian Ternis**, a **German** Student and self-teaching Developer with a 400+Days GitHub Streak
 
 [Imprint](https://fternis.de/imprint)
 
