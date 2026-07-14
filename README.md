@@ -21,6 +21,10 @@ I'm **Fabian Ternis**, a **German** Student and self-teaching Developer with a 4
 *   **[eu-data.org](https://eu-data.org)** — A Website promoting European Digital Sovereignty (with AI-Assistance)
 *   ... and more actively in development.
 
+### ⏱️ Currently working on:
+*  **[IssuesBoard](https://github.com/fabianternis/IssuesBoard)** ![img](https://hackatime.hackclub.com/api/v1/badge/U0B8JTZDTKQ/fabianternis/IssuesBoard) – Web-Application for Tracking **issues**, **todos** and **other stuff** for Coding-projects _(Building this without the help of AI)_
+*  **[SchemaBuilder](https://github.com/fabianternis/SchemaBuilder)** ![img](https://hackatime.hackclub.com/api/v1/badge/U0B8JTZDTKQ/fabianternis/SchemaBuilder) – Web-Application for **designing** database-**schemas** – _[OPEN](https://schemabuilder.dino.icu/)_
+
 <!--
 ### 🗂 Select Past Work:
 
