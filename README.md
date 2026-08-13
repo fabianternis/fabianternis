@@ -17,7 +17,7 @@ I'm **Fabian Ternis**, a **German** Student and self-teaching Developer with a 4
 
 ### 🚀 Featured Projects:
 
-*   **Mensa Ration** - I built a application for students and teachers to rate the food at my schools "canteen". It started as a simple web-application for everyone to access and is now running on an iPad at the Exit. - used by dozens daily
+*   **Mensa Rating** - I built a application for students and teachers to rate the food at my schools "canteen". It started as a simple web-application for everyone to access and is now running on an iPad at the Exit. - used by dozens daily
 *   **[DNBX.de](https://dnbx.de)** — My domain portfolio site.
 *   **[eu-data.org](https://eu-data.org)** — A Website promoting European Digital Sovereignty (with AI-Assistance)
 *   ... and more actively in development.
