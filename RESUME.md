@@ -21,11 +21,11 @@ Ich bin ein technikbegeisterter Schüler und **Back-End Entwickler** mit einem s
 ### **Datenbanken & Infrastruktur**
 - **Datenbank-Design:** Entwurf komplexer Schemata (bevorzugt mit **UUIDs** als Primary Keys).
 - **Systeme:** MySQL, SQLite.
-- **Webserver:** Konfiguration und Verwaltung von **NGINX**.
-- **Betriebssysteme:** Erfahren im Umgang mit **macOS**, **Ubuntu Desktop** und **Ubuntu Server**.
+- **Webserver:** Konfiguration und Verwaltung von **NGINX**. Neuerdings auch [caddy](https://github.com/caddyserver/caddy).
+- **Betriebssysteme:** Erfahren im Umgang mit **macOS**, **Ubuntu Desktop** und **Ubuntu Server** sowie Windows.
 
 ### **Front-End**
-- **CSS:** Erfahrung mit **TailwindCSS** für modernes UI-Styling.
+- **CSS:** Erfahrung mit **TailwindCSS** für modernes UI-Styling. Neuerdings mehr mit **Vanilla CSS** gearbeitet.
 
 ---
 
@@ -58,7 +58,7 @@ Ich bin ein technikbegeisterter Schüler und **Back-End Entwickler** mit einem s
 ### **Heinrich-Heine-Gymnasium, Kaiserslautern**
 *2021 – 2028 (voraussichtlich)*
 - Aktuell: Klasse 12
-- Besonderheit: Wechsel 2021 (mit Wiederholung der 6. Klasse)
+<!--- Besonderheit: Wechsel 2021 (mit Wiederholung der 6. Klasse)-->
 
 ### **Gauß-Gymnasium, Worms**
 *2019 – 2021*
