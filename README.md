@@ -36,7 +36,7 @@ I'm **Fabian Ternis**, a **German** Student and self-teaching Developer with a 4
 
 ### 🛠 Technologies I am currently learning:
 
-PHP, Laravel, SQL, Python, JavaScript, Tailwind CSS, Ubuntu, and more.
+PHP, Laravel, SQL, Python, JavaScript, Tailwind CSS, Linux, and more.
 <!--
 ---
 
