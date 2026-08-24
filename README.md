@@ -26,6 +26,7 @@ I'm **Fabian Ternis**, a **German** Student and self-teaching Developer with a 4
 *  **[IssuesBoard](https://github.com/fabianternis/IssuesBoard)** ![img](https://hackatime.hackclub.com/api/v1/badge/U0B8JTZDTKQ/fabianternis/IssuesBoard) – Web-Application for Tracking **issues**, **todos** and **other stuff** for Coding-projects _(Building this without the help of AI)_
 *  **[SchemaBuilder](https://github.com/fabianternis/SchemaBuilder)** ![img](https://hackatime.hackclub.com/api/v1/badge/U0B8JTZDTKQ/fabianternis/SchemaBuilder) – Web-Application for **designing** database-**schemas** – _[OPEN](https://schemabuilder.dino.icu/)_
 *  **[fabian.ternis.dev](https://github.com/ternis-dev/fabian.ternis.dev)** ![img](https://hackatime.hackclub.com/api/v1/badge/U0B8JTZDTKQ/fabian.ternis.dev) – A "personal website" with just soem random stuff on it. – powered by PHP and soem APIs (that i partly made myself)
+*  Way moreeee
 
 <!--
 ### 🗂 Select Past Work:
