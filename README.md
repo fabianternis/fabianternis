@@ -2,7 +2,8 @@
 
 I'm **Fabian Ternis**, a **German** Student and self-teaching Developer with a 400+Days GitHub Streak
 
-[Imprint](https://fternis.de/imprint)
+[Imprint](https://ternis.dev/en/legal/imprint)
+[Impressum](https://ternis.dev/de/legal/imprint)
 
 ---
 
